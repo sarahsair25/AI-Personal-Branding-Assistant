@@ -21,7 +21,7 @@
 
 ---
 
-![App Screenshot](https://via.placeholder.com/900x500/080810/7c3aed?text=AI+Personal+Branding+Assistant)
+
 
 </div>
 
@@ -88,7 +88,7 @@ Powered by **Claude (Anthropic's frontier AI)**, this tool is a full-stack perso
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ai-personal-branding-assistant.git
+git clone https://github.com/sarahsair/ai-personal-branding-assistant.git
 
 # Navigate into the project
 cd ai-personal-branding-assistant
