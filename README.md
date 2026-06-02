@@ -106,19 +106,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) and start building your brand. 🎉
 
----
-
-## 📸 Screenshots
-
-| LinkedIn Optimizer | Content Creator |
-|---|---|
-| ![LinkedIn](https://via.placeholder.com/420x260/0d0d1a/7c3aed?text=LinkedIn+Optimizer) | ![Content](https://via.placeholder.com/420x260/0d0d1a/3b82f6?text=Content+Creator) |
-
-| Portfolio Builder | Audience Growth |
-|---|---|
-| ![Portfolio](https://via.placeholder.com/420x260/0d0d1a/7c3aed?text=Portfolio+Builder) | ![Growth](https://via.placeholder.com/420x260/0d0d1a/3b82f6?text=Audience+Growth) |
-
----
 
 ## 🗺️ Roadmap
 
