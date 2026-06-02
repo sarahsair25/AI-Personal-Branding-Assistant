@@ -161,6 +161,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 If this helped you, please ⭐ star the repo — it means everything.
 
-[Twitter](https://twitter.com/yourhandle) · [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yoursite.com)
+ [LinkedIn](https://linkedin.com/in/sarahsair) · [Portfolio](https://sarah-sair-ai-7044ftv.gamma.site)
 
 </div>
