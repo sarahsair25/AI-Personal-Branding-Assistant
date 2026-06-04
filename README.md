@@ -17,7 +17,7 @@
 
 *Stop guessing. Start standing out.*
 
-[✨ Live Demo](#) · [🐛 Report Bug](issues) · [💡 Request Feature](issues) · [⭐ Star this repo](#)
+[✨ Live Demo](https://claude.ai/public/artifacts/afbfed7b-65e0-4d46-aadc-d2ffd720c57e) · [🐛 Report Bug](issues) · [💡 Request Feature](issues) · [⭐ Star this repo](#)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 What Is This?
+## What Is This?
 
 Most professionals spend **months** trying to crack the code on personal branding. Wrong keywords on LinkedIn. Invisible content. A portfolio that no one reads.
 
@@ -37,28 +37,28 @@ Powered by **Claude (Anthropic's frontier AI)**, this tool is a full-stack perso
 
 ---
 
-## ✨ Features
+##  Features
 
-### 💼 LinkedIn Profile Optimizer
+###  LinkedIn Profile Optimizer
 - Rewrites your headline with recruiter-magnet keywords
 - Transforms your About section into a compelling narrative
 - Suggests experience bullet points with quantifiable impact
 - Recommends your top 10 skills to boost search visibility
 - Gives 3 quick wins to instantly improve profile views
 
-### ✍️ Content Creator
+###  Content Creator
 - Generates platform-native posts for **LinkedIn, Twitter/X, Instagram & Newsletter**
 - Pick your **tone** (Professional, Bold, Inspirational, Casual, Humorous)
 - Choose your **goal** (Educate, Inspire, Build Authority, Generate Leads)
 - Includes hashtag strategy, best posting times & A/B hook variations
 
-### 🗂️ Portfolio Case Study Builder
+### Portfolio Case Study Builder
 - Turn any project into a polished, recruiter-ready case study
 - Structured with Challenge → Approach → Results framework
 - Auto-generates metrics-driven impact statements
 - Produces a ready-to-paste resume bullet
 
-### 📈 Audience Growth Strategist
+###  Audience Growth Strategist
 - Custom **30/60/90-day growth roadmap** based on your niche
 - Defines your content pillars
 - Recommends platform-specific posting schedules
@@ -67,7 +67,7 @@ Powered by **Claude (Anthropic's frontier AI)**, this tool is a full-stack perso
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -78,7 +78,7 @@ Powered by **Claude (Anthropic's frontier AI)**, this tool is a full-stack perso
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -88,7 +88,7 @@ Powered by **Claude (Anthropic's frontier AI)**, this tool is a full-stack perso
 
 ```bash
 # Clone the repo
-git clone https://github.com/sarahsair/ai-personal-branding-assistant.git
+git clone https://github.com/sarahsair25/ai-personal-branding-assistant.git
 
 # Navigate into the project
 cd ai-personal-branding-assistant
@@ -107,7 +107,7 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) and start building your brand. 🎉
 
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [x] LinkedIn profile optimizer
 - [x] Multi-platform content generator
@@ -120,7 +120,7 @@ Open [http://localhost:5173](http://localhost:5173) and start building your bran
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions make this project better for everyone. Here's how:
 
@@ -136,7 +136,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
