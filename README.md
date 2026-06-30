@@ -22,11 +22,6 @@
 ---
 
 
-
-</div>
-
----
-
 ## What Is This?
 
 Most professionals spend **months** trying to crack the code on personal branding. Wrong keywords on LinkedIn. Invisible content. A portfolio that no one reads.
